@@ -1,0 +1,117 @@
+body{
+    background-color: #666666;
+    font-family: Arial;
+}
+
+.container{
+    margin: 0 auto;
+    width: 980px;
+    padding-top: 30px;
+}
+
+
+/*HEader*/
+.header{
+    margin-bottom: 30px;
+}
+
+.header h1{
+    color: #ffffff;
+    margin: 0;
+}
+
+.header h2{
+    color: #cccccc;
+    margin: 0;
+}
+/*END HEADER*/
+
+/*main content*/
+.main-content{
+    box-shadow: 0px 0px 20px #222222;
+}
+
+/*MENU*/
+
+.menu{
+    height: 45px;
+    background-color: darkorange;
+    color: #eeeeee;
+    font-weight: bold;
+}
+
+.menu ul{
+    list-style: none;
+}
+
+.menu ul li{
+    float: left;
+    padding: 15px;
+}
+
+/*END MAINCONTENT*/
+
+/*CONTENT*/
+.content{
+    float: none;
+    background-color: #ffffff;
+    height: 534px;
+    padding: 15px;
+}
+
+.content img{
+    border: 3px solid #cccccc;
+}
+
+.content a{
+    color: darkorange;
+}
+
+.content .left{
+    width: 70%;
+    float: left;
+}
+
+.content .right{
+    float: left;
+    list-style: none;
+    border-left: 1px solid #aaaaaa;
+    width: 25%;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+
+.right ul{
+    list-style: none;
+}
+
+.categories h4,
+.archives h4 {
+     color: #777777;
+ }
+
+.categories a,
+.archives a {
+    text-decoration: none;
+}
+/*END CONTENT*/
+
+
+/*Footer*/
+.footer{
+    text-align: center;
+    color: #ffffff;
+    padding: 15px;
+
+}
+
+.footer a{
+    color: darkorange;
+}
+/*FOOTER*/
+
+
+
+h1 {
+    color: darkorange;
+}

@@ -1,0 +1,53 @@
+body {
+    font-size: 20px;
+    font-family: Helvetica;
+}
+
+.container{
+    width: 980px;
+    margin: 0 auto;
+}
+
+.title {
+    height: 50px;
+    background-color: orange;
+    color: #ffffff;
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.content{
+    display: flex;
+    height: 200px;
+}
+
+.description{
+    width: 76%;
+    text-align: right;
+    padding: 20px;
+    color: #aaaaaa;
+}
+
+
+input[type="text"]{
+    border: 2px solid #666666;
+}
+
+[name="input-1"] {
+    background-color: blueviolet;
+}
+
+.form input:nth-child(3){
+    background-color: aquamarine;
+}
+
+input:disabled {
+    background-color: #222222;
+}
+
+input:hover{
+    background-color: brown;
+}
+
