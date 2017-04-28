@@ -1,0 +1,19 @@
+.container
+.title
+.container{
+width: 980;
+margin: 0 auto;
+margin-top: 0;
+margin-right: auto;
+margin-bottom: 0;
+margin-left: auto;
+}
+.title{
+	height: 50px;
+	background-color: #ffffff;
+	color:#33BEBE;
+	text-align: left;
+	font-size: 2.5em;
+	font-weight: bold;
+	padding: 20px;
+}
