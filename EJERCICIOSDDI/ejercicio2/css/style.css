@@ -1,0 +1,33 @@
+body {
+    padding: 30px 50px 50px 130px;
+}
+.container{
+    width: 948px;
+    padding: 10px 0 0 0;
+    background-color: #E8E8E7;
+}
+.head{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.content1{
+    background-color: #8BCC98;
+    height: 10px;
+}
+
+.content{
+    background-color: white;
+    margin: 20px auto 0 auto;
+    width: 470px;
+    padding: 20px;
+    font-family: sans-serif;
+}
+.content p{
+    text-indent: 60px;
+    color: #3F331C;
+    font-size: larger;
+}
+.content h2{
+    color: #3F331C;
+    font-size: larger;
+}
